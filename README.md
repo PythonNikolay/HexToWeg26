@@ -1,1 +1,1 @@
-Convertor UID_Cards TO Wiegand 26 for Mifare Cards with 321 read!
+Convertor UID Mifare Cards to Wiegand 26 with 321 read bytes!
